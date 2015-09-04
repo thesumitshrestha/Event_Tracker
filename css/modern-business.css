@@ -70,7 +70,12 @@ header.carousel .fill {
 /* Footer Styles */
 
 footer {
-    margin: 50px 0;
+    width: 100%;
+    background-color:rgb(28, 95, 45);
+    color: white;
+    height: 50px;
+    padding: 12px;
+    font-size: 22px;
 }
 
 /* Responsive Styles */
